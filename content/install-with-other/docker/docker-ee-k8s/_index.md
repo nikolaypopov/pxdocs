@@ -8,7 +8,7 @@ series: px-docker-install
 ---
 
 This document explains how to install Portworx with Kubernetes on Docker EE 2.x.
-{{<info>}}**Non-Kubernetes:** To install stand alone PX on Docker EE 2.x follow this [doc](/install-with-other/docker/standalone/).{{</info>}}
+{{<info>}}**Non-Kubernetes:** To install stand-alone PX on Docker EE 2.x follow this [doc](/install-with-other/docker/standalone/).{{</info>}}
 
 ## Prerequisites
 
